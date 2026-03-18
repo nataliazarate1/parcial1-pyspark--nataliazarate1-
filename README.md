@@ -100,7 +100,7 @@ Activa JupyterLab, una versión más moderna de Jupyter Notebook que permite tra
 
 ---
 
-## 7. Referencias
+## Referencias
 
 * Kaggle (2024). *Hotel Booking Demand Dataset*.
   [https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
